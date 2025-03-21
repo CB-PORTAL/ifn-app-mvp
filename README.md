@@ -93,8 +93,8 @@ We welcome contributions from the community! If you'd like to contribute, please
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 📞 Contact
-
-Project Lead - [Your Name](mailto:your.email@example.com)
+470-503-9470 (Text Preferred)
+Project Lead - [Devon J Williams](mailto:careybrands@gmail.com)
 
 ---
 
