@@ -1,6 +1,6 @@
 # IFN - Indie Film Network
 
-![IFN Logo](https://scontent-atl3-3.xx.fbcdn.net/v/t39.30808-6/327165784_850019026093166_4650055300643963755_n.png?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=LGLIyiXUL-UQ7kNvgEUq495&_nc_oc=AdnmBOy3NrvgMA6a5QLXJMx3R9-YeVV92E1Kkvthe1z1rIcoep_f0w1cuoCXm-H8chpPcgQjKq2JjV-bi17BAmLc&_nc_zt=23&_nc_ht=scontent-atl3-3.xx&_nc_gid=sXf97NR1UQkhgW7w3q3z6g&oh=00_AYHTpffm3DGJnMLesdhm5FtzoJMs_Uk_ukcgq9RgM78pzw&oe=67E2F518)
+![IFN Logo](https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-6/327601704_524643413065749_6778700971801201980_n.png?_nc_cat=101&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=3Tzjkq1pzEMQ7kNvgGX5w3_&_nc_oc=AdliikR5v2NUfj9NzN44WA_JhSHohTVqmEsPeuUmN-WKMhsHmfORIHoDwewbdHouAncACpZLzKMdpjaaaKvwah4c&_nc_zt=23&_nc_ht=scontent-atl3-2.xx&_nc_gid=5Vl6Fe83F1tBI0Da02EiLw&oh=00_AYGd2q6qxAVFrQIbWJS8u1NLjxxjDtgHS9XRd9FnQtLipA&oe=67E2F0A0)
 
 ## 🎬 Vision
 
